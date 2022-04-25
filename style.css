@@ -17,24 +17,33 @@
     padding:0;
     box-sizing: border-box;
 } */
+/*
+TO DOS:
+- center everything
+- make the boxes 
+*/
 
 h1 {
     font-family:'Barlow', sans-serif;
     font-size: 100px;
 }
 
-head {
-    background-color: aliceblue;
+h2 {
+    font-family: 'Barlow', sans-serif;
+    text-align: center;
 }
 
 body {
-    background-color: rgb(227, 188, 29);
+    background-color: white;
     /* font-family: 'Barlow', sans-serif; */
     border: 1px solid black;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
 }
 
 .box-container .box {
     border: 1px solid black;
+    text-align: left;
 }
