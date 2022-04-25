@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+/* 
+ * Stylesheet Color Palette
+ * 
+ * 
+ */
+ @import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+
+/* :root {
+    --main-color: #FFEDDE;
+    --border:1px solid black;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+} */
+
+h1 {
+    font-family:'Barlow', sans-serif;
+    font-size: 100px;
+}
+
+head {
+    background-color: aliceblue;
+}
+
+body {
+    background-color: rgb(227, 188, 29);
+    /* font-family: 'Barlow', sans-serif; */
+    border: 1px solid black;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.box-container .box {
+    border: 1px solid black;
+}
