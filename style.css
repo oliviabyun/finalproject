@@ -76,3 +76,14 @@ form {
     background-color: #6653f8;
     color: white;
 }
+
+input[type='checkbox'] {
+    width:15px;
+    height:15px;
+    background:white;
+    border-radius:10px;
+    border:2px solid #96d0f7;
+}
+input[type='checkbox']:checked {
+    background: #6653f8;
+}
