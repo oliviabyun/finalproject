@@ -54,6 +54,6 @@ body {
 
 form {
     margin: 0 auto;
-    max-width: 60%;
+    width: 50%;
     border: 1px solid black;
 }
