@@ -109,3 +109,22 @@ input[type='checkbox']:checked {
 a {
     text-decoration: none;
 }
+
+button{
+    /* margin-top: 1rem; */
+    margin-bottom: 2rem;
+    display: inline-block;
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+    cursor: pointer;
+
+    background-color: white;
+    padding: 8px 8px;
+    margin: 10px 0;
+    border-radius: 30px;
+}
+
+button:hover {
+    background-color: #b1b5dd;
+    color: white;
+}
