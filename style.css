@@ -17,18 +17,14 @@
     padding:0;
     box-sizing: border-box;
 } */
-/*
-TO DOS:
-- center everything
-- make the boxes 
-*/
 
 h1 {
     font-family:'Barlow', sans-serif;
     font-weight: bold;
-    font-size: 80px;
+    font-size: 65px;
     text-align: center;
     color: #081D39;
+    margin-bottom: -10px;
 }
 
 h2 {
@@ -64,7 +60,7 @@ body {
     /* margin-top: 1rem; */
     margin-bottom: 2rem;
     display: inline-block;
-    font-size: 10px;
+    font-size: 20px;
     color:rgb(0, 0, 0);
     cursor: pointer;
 
